@@ -2,3 +2,4 @@ mushrooms
 tomatoes
 mozzarella
 marinara
+anchovies
