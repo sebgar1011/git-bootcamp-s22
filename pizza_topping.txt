@@ -3,3 +3,4 @@ tomatoes
 mozzarella
 marinara
 anchovies
+peppers
